@@ -1,4 +1,4 @@
-# The-Twenty-First-Rotation-Textual-Knot-Non-Linear-Language-as-Core
+Theoretical-Physics-Neuromorphic-Engineering # The-Twenty-First-Rotation-Textual-Knot-Non-Linear-Language-as-Core
 a speculative computational artifact inspired by SIDM, Ising models, feedback systems, and ritualized structure.
 The key move is to pin it to software + simulation + symbolic modeling, not physical enactment. That makes it GitHub-appropriate, testable, reviewable, and something other people (and other AIs) can actually engage with.
 Think of it as:
